@@ -1,0 +1,787 @@
+Year,Region,Job Type,Estimated Number,Source
+2011,North America,Data Analyst,35000,Internet
+2011,Europe,Data Analyst,30000,Internet
+2011,Asia,Data Analyst,45000,Internet
+2011,South America,Data Analyst,8000,Internet
+2011,Africa,Data Analyst,3000,Internet
+2011,Australia,Data Analyst,5000,Internet
+2011,Middle East,Data Analyst,4000,Internet
+2012,North America,Data Analyst,38000,Internet
+2012,Europe,Data Analyst,32000,Internet
+2012,Asia,Data Analyst,50000,Internet
+2012,South America,Data Analyst,9000,Internet
+2012,Africa,Data Analyst,3500,Internet
+2012,Australia,Data Analyst,5500,Internet
+2012,Middle East,Data Analyst,4500,Internet
+2013,North America,Data Analyst,42000,Internet
+2013,Europe,Data Analyst,35000,Internet
+2013,Asia,Data Analyst,55000,Internet
+2013,South America,Data Analyst,10000,Internet
+2013,Africa,Data Analyst,4000,Internet
+2013,Australia,Data Analyst,6000,Internet
+2013,Middle East,Data Analyst,5000,Internet
+2014,North America,Data Analyst,47000,Internet
+2014,Europe,Data Analyst,38000,Internet
+2014,Asia,Data Analyst,60000,Internet
+2014,South America,Data Analyst,11000,Internet
+2014,Africa,Data Analyst,4500,Internet
+2014,Australia,Data Analyst,6500,Internet
+2014,Middle East,Data Analyst,5500,Internet
+2015,North America,Data Analyst,52000,Internet
+2015,Europe,Data Analyst,42000,Internet
+2015,Asia,Data Analyst,65000,Internet
+2015,South America,Data Analyst,12000,Internet
+2015,Africa,Data Analyst,5000,Internet
+2015,Australia,Data Analyst,7000,Internet
+2015,Middle East,Data Analyst,6000,Internet
+2016,North America,Data Analyst,58000,Internet
+2016,Europe,Data Analyst,47000,Internet
+2016,Asia,Data Analyst,72000,Internet
+2016,South America,Data Analyst,13000,Internet
+2016,Africa,Data Analyst,5500,Internet
+2016,Australia,Data Analyst,7500,Internet
+2016,Middle East,Data Analyst,6500,Internet
+2017,North America,Data Analyst,62000,Internet
+2017,Europe,Data Analyst,50000,Internet
+2017,Asia,Data Analyst,77000,Internet
+2017,South America,Data Analyst,14000,Internet
+2017,Africa,Data Analyst,6000,Internet
+2017,Australia,Data Analyst,8000,Internet
+2017,Middle East,Data Analyst,7000,Internet
+2018,North America,Data Analyst,67000,Internet
+2018,Europe,Data Analyst,53000,Internet
+2018,Asia,Data Analyst,82000,Internet
+2018,South America,Data Analyst,15000,Internet
+2018,Africa,Data Analyst,6500,Internet
+2018,Australia,Data Analyst,8500,Internet
+2018,Middle East,Data Analyst,7500,Internet
+2019,North America,Data Analyst,72000,Internet
+2019,Europe,Data Analyst,56000,Internet
+2019,Asia,Data Analyst,87000,Internet
+2019,South America,Data Analyst,16000,Internet
+2019,Africa,Data Analyst,7000,Internet
+2019,Australia,Data Analyst,9000,Internet
+2019,Middle East,Data Analyst,8000,Internet
+2020,North America,Data Analyst,75000,Internet
+2020,Europe,Data Analyst,58000,Internet
+2020,Asia,Data Analyst,90000,Internet
+2020,South America,Data Analyst,17000,Internet
+2020,Africa,Data Analyst,7500,Internet
+2020,Australia,Data Analyst,9500,Internet
+2020,Middle East,Data Analyst,8500,Internet
+2021,North America,Data Analyst,78000,Internet
+2021,Europe,Data Analyst,60000,Internet
+2021,Asia,Data Analyst,93000,Internet
+2021,South America,Data Analyst,18000,Internet
+2021,Africa,Data Analyst,8000,Internet
+2021,Australia,Data Analyst,10000,Internet
+2021,Middle East,Data Analyst,9000,Internet
+2022,North America,Data Analyst,81000,Internet
+2022,Europe,Data Analyst,62000,Internet
+2022,Asia,Data Analyst,96000,Internet
+2022,South America,Data Analyst,19000,Internet
+2022,Africa,Data Analyst,8500,Internet
+2022,Australia,Data Analyst,10500,Internet
+2022,Middle East,Data Analyst,9500,Internet
+2023,North America,Data Analyst,84000,Internet
+2023,Europe,Data Analyst,64000,Internet
+2023,Asia,Data Analyst,98000,Internet
+2023,South America,Data Analyst,20000,Internet
+2023,Africa,Data Analyst,9000,Internet
+2023,Australia,Data Analyst,11000,Internet
+2023,Middle East,Data Analyst,10000,Internet
+2024,North America,Data Analyst,75000,Internet
+2024,Europe,Data Analyst,60000,Internet
+2024,Asia,Data Analyst,95000,Internet
+2024,South America,Data Analyst,18000,Internet
+2024,Africa,Data Analyst,8000,Internet
+2024,Australia,Data Analyst,10000,Internet
+2024,Middle East,Data Analyst,8500,Internet
+2011,North America,Front-End Developers,40000,Internet
+2011,Europe,Front-End Developers,35000,Internet
+2011,Asia,Front-End Developers,50000,Internet
+2011,South America,Front-End Developers,7000,Internet
+2011,Africa,Front-End Developers,3000,Internet
+2011,Australia,Front-End Developers,5000,Internet
+2011,Middle East,Front-End Developers,4000,Internet
+2012,North America,Front-End Developers,42000,Internet
+2012,Europe,Front-End Developers,37000,Internet
+2012,Asia,Front-End Developers,55000,Internet
+2012,South America,Front-End Developers,8000,Internet
+2012,Africa,Front-End Developers,3500,Internet
+2012,Australia,Front-End Developers,5500,Internet
+2012,Middle East,Front-End Developers,4500,Internet
+2013,North America,Front-End Developers,45000,Internet
+2013,Europe,Front-End Developers,40000,Internet
+2013,Asia,Front-End Developers,60000,Internet
+2013,South America,Front-End Developers,9000,Internet
+2013,Africa,Front-End Developers,4000,Internet
+2013,Australia,Front-End Developers,6000,Internet
+2013,Middle East,Front-End Developers,5000,Internet
+2014,North America,Front-End Developers,50000,Internet
+2014,Europe,Front-End Developers,43000,Internet
+2014,Asia,Front-End Developers,65000,Internet
+2014,South America,Front-End Developers,10000,Internet
+2014,Africa,Front-End Developers,4500,Internet
+2014,Australia,Front-End Developers,6500,Internet
+2014,Middle East,Front-End Developers,5500,Internet
+2015,North America,Front-End Developers,55000,Internet
+2015,Europe,Front-End Developers,47000,Internet
+2015,Asia,Front-End Developers,70000,Internet
+2015,South America,Front-End Developers,11000,Internet
+2015,Africa,Front-End Developers,5000,Internet
+2015,Australia,Front-End Developers,7000,Internet
+2015,Middle East,Front-End Developers,6000,Internet
+2016,North America,Front-End Developers,60000,Internet
+2016,Europe,Front-End Developers,50000,Internet
+2016,Asia,Front-End Developers,75000,Internet
+2016,South America,Front-End Developers,12000,Internet
+2016,Africa,Front-End Developers,5500,Internet
+2016,Australia,Front-End Developers,7500,Internet
+2016,Middle East,Front-End Developers,6500,Internet
+2017,North America,Front-End Developers,65000,Internet
+2017,Europe,Front-End Developers,53000,Internet
+2017,Asia,Front-End Developers,80000,Internet
+2017,South America,Front-End Developers,13000,Internet
+2017,Africa,Front-End Developers,6000,Internet
+2017,Australia,Front-End Developers,8000,Internet
+2017,Middle East,Front-End Developers,7000,Internet
+2018,North America,Front-End Developers,70000,Internet
+2018,Europe,Front-End Developers,56000,Internet
+2018,Asia,Front-End Developers,85000,Internet
+2018,South America,Front-End Developers,14000,Internet
+2018,Africa,Front-End Developers,6500,Internet
+2018,Australia,Front-End Developers,8500,Internet
+2018,Middle East,Front-End Developers,7500,Internet
+2019,North America,Front-End Developers,75000,Internet
+2019,Europe,Front-End Developers,60000,Internet
+2019,Asia,Front-End Developers,90000,Internet
+2019,South America,Front-End Developers,15000,Internet
+2019,Africa,Front-End Developers,7000,Internet
+2019,Australia,Front-End Developers,9000,Internet
+2019,Middle East,Front-End Developers,8000,Internet
+2020,North America,Front-End Developers,76000,Internet
+2020,Europe,Front-End Developers,61000,Internet
+2020,Asia,Front-End Developers,91000,Internet
+2020,South America,Front-End Developers,15500,Internet
+2020,Africa,Front-End Developers,7200,Internet
+2020,Australia,Front-End Developers,9100,Internet
+2020,Middle East,Front-End Developers,8100,Internet
+2021,North America,Front-End Developers,77000,Internet
+2021,Europe,Front-End Developers,62000,Internet
+2021,Asia,Front-End Developers,92000,Internet
+2021,South America,Front-End Developers,16000,Internet
+2021,Africa,Front-End Developers,7400,Internet
+2021,Australia,Front-End Developers,9200,Internet
+2021,Middle East,Front-End Developers,8200,Internet
+2022,North America,Front-End Developers,78000,Internet
+2022,Europe,Front-End Developers,63000,Internet
+2022,Asia,Front-End Developers,93000,Internet
+2022,South America,Front-End Developers,16500,Internet
+2022,Africa,Front-End Developers,7600,Internet
+2022,Australia,Front-End Developers,9300,Internet
+2022,Middle East,Front-End Developers,8300,Internet
+2023,North America,Front-End Developers,79000,Internet
+2023,Europe,Front-End Developers,64000,Internet
+2023,Asia,Front-End Developers,94000,Internet
+2023,South America,Front-End Developers,17000,Internet
+2023,Africa,Front-End Developers,7700,Internet
+2023,Australia,Front-End Developers,9400,Internet
+2023,Middle East,Front-End Developers,8400,Internet
+2024,North America,Front-End Developers,80000,Internet
+2024,Europe,Front-End Developers,65000,Internet
+2024,Asia,Front-End Developers,95000,Internet
+2024,South America,Front-End Developers,16000,Internet
+2024,Africa,Front-End Developers,7500,Internet
+2024,Australia,Front-End Developers,10000,Internet
+2024,Middle East,Front-End Developers,8500,Internet
+2011,North America,Back-End Developers,45000,Internet
+2011,Europe,Back-End Developers,40000,Internet
+2011,Asia,Back-End Developers,55000,Internet
+2011,South America,Back-End Developers,8000,Internet
+2011,Africa,Back-End Developers,3500,Internet
+2011,Australia,Back-End Developers,5500,Internet
+2011,Middle East,Back-End Developers,4500,Internet
+2012,North America,Back-End Developers,47000,Internet
+2012,Europe,Back-End Developers,42000,Internet
+2012,Asia,Back-End Developers,60000,Internet
+2012,South America,Back-End Developers,9000,Internet
+2012,Africa,Back-End Developers,4000,Internet
+2012,Australia,Back-End Developers,6000,Internet
+2012,Middle East,Back-End Developers,5000,Internet
+2013,North America,Back-End Developers,50000,Internet
+2013,Europe,Back-End Developers,45000,Internet
+2013,Asia,Back-End Developers,65000,Internet
+2013,South America,Back-End Developers,10000,Internet
+2013,Africa,Back-End Developers,4500,Internet
+2013,Australia,Back-End Developers,6500,Internet
+2013,Middle East,Back-End Developers,5500,Internet
+2014,North America,Back-End Developers,55000,Internet
+2014,Europe,Back-End Developers,48000,Internet
+2014,Asia,Back-End Developers,70000,Internet
+2014,South America,Back-End Developers,11000,Internet
+2014,Africa,Back-End Developers,5000,Internet
+2014,Australia,Back-End Developers,7000,Internet
+2014,Middle East,Back-End Developers,6000,Internet
+2015,North America,Back-End Developers,60000,Internet
+2015,Europe,Back-End Developers,50000,Internet
+2015,Asia,Back-End Developers,75000,Internet
+2015,South America,Back-End Developers,12000,Internet
+2015,Africa,Back-End Developers,5500,Internet
+2015,Australia,Back-End Developers,7500,Internet
+2015,Middle East,Back-End Developers,6500,Internet
+2016,North America,Back-End Developers,65000,Internet
+2016,Europe,Back-End Developers,53000,Internet
+2016,Asia,Back-End Developers,80000,Internet
+2016,South America,Back-End Developers,13000,Internet
+2016,Africa,Back-End Developers,6000,Internet
+2016,Australia,Back-End Developers,8000,Internet
+2016,Middle East,Back-End Developers,7000,Internet
+2017,North America,Back-End Developers,70000,Internet
+2017,Europe,Back-End Developers,55000,Internet
+2017,Asia,Back-End Developers,85000,Internet
+2017,South America,Back-End Developers,14000,Internet
+2017,Africa,Back-End Developers,6500,Internet
+2017,Australia,Back-End Developers,8500,Internet
+2017,Middle East,Back-End Developers,7500,Internet
+2018,North America,Back-End Developers,72000,Internet
+2018,Europe,Back-End Developers,57000,Internet
+2018,Asia,Back-End Developers,90000,Internet
+2018,South America,Back-End Developers,15000,Internet
+2018,Africa,Back-End Developers,7000,Internet
+2018,Australia,Back-End Developers,9000,Internet
+2018,Middle East,Back-End Developers,8000,Internet
+2019,North America,Back-End Developers,74000,Internet
+2019,Europe,Back-End Developers,60000,Internet
+2019,Asia,Back-End Developers,92000,Internet
+2019,South America,Back-End Developers,15500,Internet
+2019,Africa,Back-End Developers,7200,Internet
+2019,Australia,Back-End Developers,9100,Internet
+2019,Middle East,Back-End Developers,8100,Internet
+2020,North America,Back-End Developers,76000,Internet
+2020,Europe,Back-End Developers,61000,Internet
+2020,Asia,Back-End Developers,93000,Internet
+2020,South America,Back-End Developers,16000,Internet
+2020,Africa,Back-End Developers,7300,Internet
+2020,Australia,Back-End Developers,9200,Internet
+2020,Middle East,Back-End Developers,8200,Internet
+2021,North America,Back-End Developers,78000,Internet
+2021,Europe,Back-End Developers,62000,Internet
+2021,Asia,Back-End Developers,94000,Internet
+2021,South America,Back-End Developers,16500,Internet
+2021,Africa,Back-End Developers,7400,Internet
+2021,Australia,Back-End Developers,9300,Internet
+2021,Middle East,Back-End Developers,8300,Internet
+2022,North America,Back-End Developers,80000,Internet
+2022,Europe,Back-End Developers,63000,Internet
+2022,Asia,Back-End Developers,95000,Internet
+2022,South America,Back-End Developers,17000,Internet
+2022,Africa,Back-End Developers,7500,Internet
+2022,Australia,Back-End Developers,9400,Internet
+2022,Middle East,Back-End Developers,8400,Internet
+2023,North America,Back-End Developers,82000,Internet
+2023,Europe,Back-End Developers,65000,Internet
+2023,Asia,Back-End Developers,97000,Internet
+2023,South America,Back-End Developers,17500,Internet
+2023,Africa,Back-End Developers,7600,Internet
+2023,Australia,Back-End Developers,9600,Internet
+2023,Middle East,Back-End Developers,8600,Internet
+2024,North America,Back-End Developers,85000,Internet
+2024,Europe,Back-End Developers,67000,Internet
+2024,Asia,Back-End Developers,100000,Internet
+2024,South America,Back-End Developers,17000,Internet
+2024,Africa,Back-End Developers,8000,Internet
+2024,Australia,Back-End Developers,11000,Internet
+2024,Middle East,Back-End Developers,9000,Internet
+2011,North America,Data Entry Specialist,30000,Internet
+2011,Europe,Data Entry Specialist,25000,Internet
+2011,Asia,Data Entry Specialist,40000,Internet
+2011,South America,Data Entry Specialist,6000,Internet
+2011,Africa,Data Entry Specialist,2500,Internet
+2011,Australia,Data Entry Specialist,4000,Internet
+2011,Middle East,Data Entry Specialist,3000,Internet
+2012,North America,Data Entry Specialist,32000,Internet
+2012,Europe,Data Entry Specialist,27000,Internet
+2012,Asia,Data Entry Specialist,45000,Internet
+2012,South America,Data Entry Specialist,6500,Internet
+2012,Africa,Data Entry Specialist,2800,Internet
+2012,Australia,Data Entry Specialist,4200,Internet
+2012,Middle East,Data Entry Specialist,3200,Internet
+2013,North America,Data Entry Specialist,34000,Internet
+2013,Europe,Data Entry Specialist,28000,Internet
+2013,Asia,Data Entry Specialist,50000,Internet
+2013,South America,Data Entry Specialist,7000,Internet
+2013,Africa,Data Entry Specialist,3000,Internet
+2013,Australia,Data Entry Specialist,4500,Internet
+2013,Middle East,Data Entry Specialist,3500,Internet
+2014,North America,Data Entry Specialist,36000,Internet
+2014,Europe,Data Entry Specialist,29000,Internet
+2014,Asia,Data Entry Specialist,55000,Internet
+2014,South America,Data Entry Specialist,7500,Internet
+2014,Africa,Data Entry Specialist,3200,Internet
+2014,Australia,Data Entry Specialist,4800,Internet
+2014,Middle East,Data Entry Specialist,3800,Internet
+2015,North America,Data Entry Specialist,38000,Internet
+2015,Europe,Data Entry Specialist,30000,Internet
+2015,Asia,Data Entry Specialist,60000,Internet
+2015,South America,Data Entry Specialist,8000,Internet
+2015,Africa,Data Entry Specialist,3500,Internet
+2015,Australia,Data Entry Specialist,5000,Internet
+2015,Middle East,Data Entry Specialist,4000,Internet
+2016,North America,Data Entry Specialist,40000,Internet
+2016,Europe,Data Entry Specialist,32000,Internet
+2016,Asia,Data Entry Specialist,65000,Internet
+2016,South America,Data Entry Specialist,8500,Internet
+2016,Africa,Data Entry Specialist,3800,Internet
+2016,Australia,Data Entry Specialist,5200,Internet
+2016,Middle East,Data Entry Specialist,4200,Internet
+2017,North America,Data Entry Specialist,42000,Internet
+2017,Europe,Data Entry Specialist,34000,Internet
+2017,Asia,Data Entry Specialist,68000,Internet
+2017,South America,Data Entry Specialist,9000,Internet
+2017,Africa,Data Entry Specialist,4000,Internet
+2017,Australia,Data Entry Specialist,5400,Internet
+2017,Middle East,Data Entry Specialist,4400,Internet
+2018,North America,Data Entry Specialist,44000,Internet
+2018,Europe,Data Entry Specialist,36000,Internet
+2018,Asia,Data Entry Specialist,70000,Internet
+2018,South America,Data Entry Specialist,9500,Internet
+2018,Africa,Data Entry Specialist,4200,Internet
+2018,Australia,Data Entry Specialist,5600,Internet
+2018,Middle East,Data Entry Specialist,4600,Internet
+2019,North America,Data Entry Specialist,46000,Internet
+2019,Europe,Data Entry Specialist,37000,Internet
+2019,Asia,Data Entry Specialist,72000,Internet
+2019,South America,Data Entry Specialist,10000,Internet
+2019,Africa,Data Entry Specialist,4400,Internet
+2019,Australia,Data Entry Specialist,5800,Internet
+2019,Middle East,Data Entry Specialist,4800,Internet
+2020,North America,Data Entry Specialist,47000,Internet
+2020,Europe,Data Entry Specialist,38000,Internet
+2020,Asia,Data Entry Specialist,74000,Internet
+2020,South America,Data Entry Specialist,10500,Internet
+2020,Africa,Data Entry Specialist,4500,Internet
+2020,Australia,Data Entry Specialist,5900,Internet
+2020,Middle East,Data Entry Specialist,4900,Internet
+2021,North America,Data Entry Specialist,48000,Internet
+2021,Europe,Data Entry Specialist,39000,Internet
+2021,Asia,Data Entry Specialist,75000,Internet
+2021,South America,Data Entry Specialist,11000,Internet
+2021,Africa,Data Entry Specialist,4600,Internet
+2021,Australia,Data Entry Specialist,6000,Internet
+2021,Middle East,Data Entry Specialist,5000,Internet
+2022,North America,Data Entry Specialist,49000,Internet
+2022,Europe,Data Entry Specialist,39500,Internet
+2022,Asia,Data Entry Specialist,76000,Internet
+2022,South America,Data Entry Specialist,11500,Internet
+2022,Africa,Data Entry Specialist,4700,Internet
+2022,Australia,Data Entry Specialist,6100,Internet
+2022,Middle East,Data Entry Specialist,5100,Internet
+2023,North America,Data Entry Specialist,49500,Internet
+2023,Europe,Data Entry Specialist,40000,Internet
+2023,Asia,Data Entry Specialist,78000,Internet
+2023,South America,Data Entry Specialist,11800,Internet
+2023,Africa,Data Entry Specialist,5300,Internet
+2023,Australia,Data Entry Specialist,6400,Internet
+2023,Middle East,Data Entry Specialist,5200,Internet
+2024,North America,Data Entry Specialist,50000,Internet
+2024,Europe,Data Entry Specialist,40000,Internet
+2024,Asia,Data Entry Specialist,80000,Internet
+2024,South America,Data Entry Specialist,12000,Internet
+2024,Africa,Data Entry Specialist,5500,Internet
+2024,Australia,Data Entry Specialist,7000,Internet
+2024,Middle East,Data Entry Specialist,5500,Internet
+2011,North America,Network Engineer,40000,Internet
+2011,Europe,Network Engineer,35000,Internet
+2011,Asia,Network Engineer,50000,Internet
+2011,South America,Network Engineer,7000,Internet
+2011,Africa,Network Engineer,3000,Internet
+2011,Australia,Network Engineer,5000,Internet
+2011,Middle East,Network Engineer,4000,Internet
+2012,North America,Network Engineer,42000,Internet
+2012,Europe,Network Engineer,37000,Internet
+2012,Asia,Network Engineer,55000,Internet
+2012,South America,Network Engineer,7500,Internet
+2012,Africa,Network Engineer,3500,Internet
+2012,Australia,Network Engineer,5500,Internet
+2012,Middle East,Network Engineer,4500,Internet
+2013,North America,Network Engineer,45000,Internet
+2013,Europe,Network Engineer,40000,Internet
+2013,Asia,Network Engineer,60000,Internet
+2013,South America,Network Engineer,8000,Internet
+2013,Africa,Network Engineer,4000,Internet
+2013,Australia,Network Engineer,6000,Internet
+2013,Middle East,Network Engineer,5000,Internet
+2014,North America,Network Engineer,48000,Internet
+2014,Europe,Network Engineer,42000,Internet
+2014,Asia,Network Engineer,65000,Internet
+2014,South America,Network Engineer,8500,Internet
+2014,Africa,Network Engineer,4500,Internet
+2014,Australia,Network Engineer,6500,Internet
+2014,Middle East,Network Engineer,5500,Internet
+2015,North America,Network Engineer,50000,Internet
+2015,Europe,Network Engineer,45000,Internet
+2015,Asia,Network Engineer,70000,Internet
+2015,South America,Network Engineer,9000,Internet
+2015,Africa,Network Engineer,5000,Internet
+2015,Australia,Network Engineer,7000,Internet
+2015,Middle East,Network Engineer,6000,Internet
+2016,North America,Network Engineer,55000,Internet
+2016,Europe,Network Engineer,48000,Internet
+2016,Asia,Network Engineer,75000,Internet
+2016,South America,Network Engineer,10000,Internet
+2016,Africa,Network Engineer,5500,Internet
+2016,Australia,Network Engineer,7500,Internet
+2016,Middle East,Network Engineer,6500,Internet
+2017,North America,Network Engineer,57000,Internet
+2017,Europe,Network Engineer,49000,Internet
+2017,Asia,Network Engineer,78000,Internet
+2017,South America,Network Engineer,10500,Internet
+2017,Africa,Network Engineer,5800,Internet
+2017,Australia,Network Engineer,7800,Internet
+2017,Middle East,Network Engineer,6800,Internet
+2018,North America,Network Engineer,59000,Internet
+2018,Europe,Network Engineer,50000,Internet
+2018,Asia,Network Engineer,80000,Internet
+2018,South America,Network Engineer,11000,Internet
+2018,Africa,Network Engineer,6000,Internet
+2018,Australia,Network Engineer,8000,Internet
+2018,Middle East,Network Engineer,7000,Internet
+2019,North America,Network Engineer,60000,Internet
+2019,Europe,Network Engineer,51000,Internet
+2019,Asia,Network Engineer,82000,Internet
+2019,South America,Network Engineer,11500,Internet
+2019,Africa,Network Engineer,6200,Internet
+2019,Australia,Network Engineer,8200,Internet
+2019,Middle East,Network Engineer,7200,Internet
+2020,North America,Network Engineer,62000,Internet
+2020,Europe,Network Engineer,52000,Internet
+2020,Asia,Network Engineer,84000,Internet
+2020,South America,Network Engineer,12000,Internet
+2020,Africa,Network Engineer,6500,Internet
+2020,Australia,Network Engineer,8400,Internet
+2020,Middle East,Network Engineer,7400,Internet
+2021,North America,Network Engineer,64000,Internet
+2021,Europe,Network Engineer,54000,Internet
+2021,Asia,Network Engineer,86000,Internet
+2021,South America,Network Engineer,12500,Internet
+2021,Africa,Network Engineer,6800,Internet
+2021,Australia,Network Engineer,8600,Internet
+2021,Middle East,Network Engineer,7600,Internet
+2022,North America,Network Engineer,66000,Internet
+2022,Europe,Network Engineer,55000,Internet
+2022,Asia,Network Engineer,88000,Internet
+2022,South America,Network Engineer,13000,Internet
+2022,Africa,Network Engineer,7000,Internet
+2022,Australia,Network Engineer,8800,Internet
+2022,Middle East,Network Engineer,7800,Internet
+2023,North America,Network Engineer,69000,Internet
+2023,Europe,Network Engineer,57000,Internet
+2023,Asia,Network Engineer,90000,Internet
+2023,South America,Network Engineer,13500,Internet
+2023,Africa,Network Engineer,7200,Internet
+2023,Australia,Network Engineer,9000,Internet
+2023,Middle East,Network Engineer,8000,Internet
+2024,North America,Network Engineer,75000,Internet
+2024,Europe,Network Engineer,60000,Internet
+2024,Asia,Network Engineer,100000,Internet
+2024,South America,Network Engineer,14000,Internet
+2024,Africa,Network Engineer,7500,Internet
+2024,Australia,Network Engineer,10000,Internet
+2024,Middle East,Network Engineer,8500,Internet
+2011,North America,Security Analyst,25000,Internet
+2011,Europe,Security Analyst,20000,Internet
+2011,Asia,Security Analyst,30000,Internet
+2011,South America,Security Analyst,5000,Internet
+2011,Africa,Security Analyst,2000,Internet
+2011,Australia,Security Analyst,3500,Internet
+2011,Middle East,Security Analyst,2500,Internet
+2012,North America,Security Analyst,27000,Internet
+2012,Europe,Security Analyst,22000,Internet
+2012,Asia,Security Analyst,35000,Internet
+2012,South America,Security Analyst,5500,Internet
+2012,Africa,Security Analyst,2200,Internet
+2012,Australia,Security Analyst,4000,Internet
+2012,Middle East,Security Analyst,2800,Internet
+2013,North America,Security Analyst,30000,Internet
+2013,Europe,Security Analyst,25000,Internet
+2013,Asia,Security Analyst,40000,Internet
+2013,South America,Security Analyst,6000,Internet
+2013,Africa,Security Analyst,2500,Internet
+2013,Australia,Security Analyst,4500,Internet
+2013,Middle East,Security Analyst,3000,Internet
+2014,North America,Security Analyst,32000,Internet
+2014,Europe,Security Analyst,27000,Internet
+2014,Asia,Security Analyst,45000,Internet
+2014,South America,Security Analyst,6500,Internet
+2014,Africa,Security Analyst,2800,Internet
+2014,Australia,Security Analyst,5000,Internet
+2014,Middle East,Security Analyst,3300,Internet
+2015,North America,Security Analyst,35000,Internet
+2015,Europe,Security Analyst,30000,Internet
+2015,Asia,Security Analyst,50000,Internet
+2015,South America,Security Analyst,7000,Internet
+2015,Africa,Security Analyst,3000,Internet
+2015,Australia,Security Analyst,5500,Internet
+2015,Middle East,Security Analyst,3500,Internet
+2016,North America,Security Analyst,38000,Internet
+2016,Europe,Security Analyst,32000,Internet
+2016,Asia,Security Analyst,55000,Internet
+2016,South America,Security Analyst,7500,Internet
+2016,Africa,Security Analyst,3200,Internet
+2016,Australia,Security Analyst,6000,Internet
+2016,Middle East,Security Analyst,3800,Internet
+2017,North America,Security Analyst,40000,Internet
+2017,Europe,Security Analyst,34000,Internet
+2017,Asia,Security Analyst,58000,Internet
+2017,South America,Security Analyst,8000,Internet
+2017,Africa,Security Analyst,3400,Internet
+2017,Australia,Security Analyst,6300,Internet
+2017,Middle East,Security Analyst,4000,Internet
+2018,North America,Security Analyst,42000,Internet
+2018,Europe,Security Analyst,36000,Internet
+2018,Asia,Security Analyst,60000,Internet
+2018,South America,Security Analyst,8500,Internet
+2018,Africa,Security Analyst,3600,Internet
+2018,Australia,Security Analyst,6500,Internet
+2018,Middle East,Security Analyst,4200,Internet
+2019,North America,Security Analyst,44000,Internet
+2019,Europe,Security Analyst,38000,Internet
+2019,Asia,Security Analyst,63000,Internet
+2019,South America,Security Analyst,9000,Internet
+2019,Africa,Security Analyst,3800,Internet
+2019,Australia,Security Analyst,6700,Internet
+2019,Middle East,Security Analyst,4400,Internet
+2020,North America,Security Analyst,46000,Internet
+2020,Europe,Security Analyst,40000,Internet
+2020,Asia,Security Analyst,65000,Internet
+2020,South America,Security Analyst,9500,Internet
+2020,Africa,Security Analyst,4000,Internet
+2020,Australia,Security Analyst,7000,Internet
+2020,Middle East,Security Analyst,4600,Internet
+2021,North America,Security Analyst,48000,Internet
+2021,Europe,Security Analyst,42000,Internet
+2021,Asia,Security Analyst,68000,Internet
+2021,South America,Security Analyst,10000,Internet
+2021,Africa,Security Analyst,4200,Internet
+2021,Australia,Security Analyst,7300,Internet
+2021,Middle East,Security Analyst,4800,Internet
+2022,North America,Security Analyst,50000,Internet
+2022,Europe,Security Analyst,44000,Internet
+2022,Asia,Security Analyst,70000,Internet
+2022,South America,Security Analyst,10500,Internet
+2022,Africa,Security Analyst,4400,Internet
+2022,Australia,Security Analyst,7500,Internet
+2022,Middle East,Security Analyst,5000,Internet
+2023,North America,Security Analyst,52000,Internet
+2023,Europe,Security Analyst,45000,Internet
+2023,Asia,Security Analyst,75000,Internet
+2023,South America,Security Analyst,10500,Internet
+2023,Africa,Security Analyst,4600,Internet
+2023,Australia,Security Analyst,8000,Internet
+2023,Middle East,Security Analyst,5200,Internet
+2024,North America,Security Analyst,55000,Internet
+2024,Europe,Security Analyst,45000,Internet
+2024,Asia,Security Analyst,80000,Internet
+2024,South America,Security Analyst,11000,Internet
+2024,Africa,Security Analyst,5000,Internet
+2024,Australia,Security Analyst,9000,Internet
+2024,Middle East,Security Analyst,6000,Internet
+2011,North America,Database Administrator,130000,Internet
+2011,Europe,Database Administrator,180000,Internet
+2011,Asia,Database Administrator,370000,Internet
+2011,South America,Database Administrator,55000,Internet
+2011,Africa,Database Administrator,15000,Internet
+2011,Australia,Database Administrator,20000,Internet
+2011,Middle East,Database Administrator,25000,Internet
+2012,North America,Database Administrator,136000,Internet
+2012,Europe,Database Administrator,188000,Internet
+2012,Asia,Database Administrator,390000,Internet
+2012,South America,Database Administrator,57000,Internet
+2012,Africa,Database Administrator,16000,Internet
+2012,Australia,Database Administrator,21000,Internet
+2012,Middle East,Database Administrator,27000,Internet
+2013,North America,Database Administrator,142000,Internet
+2013,Europe,Database Administrator,196000,Internet
+2013,Asia,Database Administrator,410000,Internet
+2013,South America,Database Administrator,59000,Internet
+2013,Africa,Database Administrator,17000,Internet
+2013,Australia,Database Administrator,22000,Internet
+2013,Middle East,Database Administrator,29000,Internet
+2014,North America,Database Administrator,148000,Internet
+2014,Europe,Database Administrator,204000,Internet
+2014,Asia,Database Administrator,430000,Internet
+2014,South America,Database Administrator,61000,Internet
+2014,Africa,Database Administrator,18000,Internet
+2014,Australia,Database Administrator,23000,Internet
+2014,Middle East,Database Administrator,31000,Internet
+2015,North America,Database Administrator,154000,Internet
+2015,Europe,Database Administrator,212000,Internet
+2015,Asia,Database Administrator,450000,Internet
+2015,South America,Database Administrator,63000,Internet
+2015,Africa,Database Administrator,19000,Internet
+2015,Australia,Database Administrator,24000,Internet
+2015,Middle East,Database Administrator,33000,Internet
+2016,North America,Database Administrator,160000,Internet
+2016,Europe,Database Administrator,220000,Internet
+2016,Asia,Database Administrator,470000,Internet
+2016,South America,Database Administrator,65000,Internet
+2016,Africa,Database Administrator,20000,Internet
+2016,Australia,Database Administrator,25000,Internet
+2016,Middle East,Database Administrator,35000,Internet
+2017,North America,Database Administrator,170000,Internet
+2017,Europe,Database Administrator,235000,Internet
+2017,Asia,Database Administrator,490000,Internet
+2017,South America,Database Administrator,70000,Internet
+2017,Africa,Database Administrator,22000,Internet
+2017,Australia,Database Administrator,27000,Internet
+2017,Middle East,Database Administrator,37000,Internet
+2018,North America,Database Administrator,175000,Internet
+2018,Europe,Database Administrator,240000,Internet
+2018,Asia,Database Administrator,510000,Internet
+2018,South America,Database Administrator,72000,Internet
+2018,Africa,Database Administrator,23000,Internet
+2018,Australia,Database Administrator,28000,Internet
+2018,Middle East,Database Administrator,38000,Internet
+2019,North America,Database Administrator,180000,Internet
+2019,Europe,Database Administrator,245000,Internet
+2019,Asia,Database Administrator,530000,Internet
+2019,South America,Database Administrator,74000,Internet
+2019,Africa,Database Administrator,24000,Internet
+2019,Australia,Database Administrator,29000,Internet
+2019,Middle East,Database Administrator,39000,Internet
+2020,North America,Database Administrator,185000,Internet
+2020,Europe,Database Administrator,250000,Internet
+2020,Asia,Database Administrator,550000,Internet
+2020,South America,Database Administrator,76000,Internet
+2020,Africa,Database Administrator,25000,Internet
+2020,Australia,Database Administrator,30000,Internet
+2020,Middle East,Database Administrator,40000,Internet
+2021,North America,Database Administrator,190000,Internet
+2021,Europe,Database Administrator,260000,Internet
+2021,Asia,Database Administrator,570000,Internet
+2021,South America,Database Administrator,78000,Internet
+2021,Africa,Database Administrator,26000,Internet
+2021,Australia,Database Administrator,31000,Internet
+2021,Middle East,Database Administrator,41000,Internet
+2022,North America,Database Administrator,195000,Internet
+2022,Europe,Database Administrator,270000,Internet
+2022,Asia,Database Administrator,590000,Internet
+2022,South America,Database Administrator,80000,Internet
+2022,Africa,Database Administrator,27000,Internet
+2022,Australia,Database Administrator,32000,Internet
+2022,Middle East,Database Administrator,42000,Internet
+2023,North America,Database Administrator,200000,Internet
+2023,Europe,Database Administrator,280000,Internet
+2023,Asia,Database Administrator,610000,Internet
+2023,South America,Database Administrator,82000,Internet
+2023,Africa,Database Administrator,28000,Internet
+2023,Australia,Database Administrator,33000,Internet
+2023,Middle East,Database Administrator,45000,Internet
+2024,North America,Database Administrator,210000,Internet
+2024,Europe,Database Administrator,290000,Internet
+2024,Asia,Database Administrator,620000,Internet
+2024,South America,Database Administrator,85000,Internet
+2024,Africa,Database Administrator,30000,Internet
+2024,Australia,Database Administrator,35000,Internet
+2024,Middle East,Database Administrator,50000,Internet
+2011,North America,AI/ML Researcher,15000,Internet
+2011,Europe,AI/ML Researcher,10000,Internet
+2011,Asia,AI/ML Researcher,20000,Internet
+2011,South America,AI/ML Researcher,2000,Internet
+2011,Africa,AI/ML Researcher,1000,Internet
+2011,Australia,AI/ML Researcher,2000,Internet
+2011,Middle East,AI/ML Researcher,1500,Internet
+2012,North America,AI/ML Researcher,18000,Internet
+2012,Europe,AI/ML Researcher,12000,Internet
+2012,Asia,AI/ML Researcher,25000,Internet
+2012,South America,AI/ML Researcher,2500,Internet
+2012,Africa,AI/ML Researcher,1200,Internet
+2012,Australia,AI/ML Researcher,2500,Internet
+2012,Middle East,AI/ML Researcher,2000,Internet
+2013,North America,AI/ML Researcher,22000,Internet
+2013,Europe,AI/ML Researcher,15000,Internet
+2013,Asia,AI/ML Researcher,30000,Internet
+2013,South America,AI/ML Researcher,3000,Internet
+2013,Africa,AI/ML Researcher,1500,Internet
+2013,Australia,AI/ML Researcher,3000,Internet
+2013,Middle East,AI/ML Researcher,2500,Internet
+2014,North America,AI/ML Researcher,26000,Internet
+2014,Europe,AI/ML Researcher,18000,Internet
+2014,Asia,AI/ML Researcher,35000,Internet
+2014,South America,AI/ML Researcher,3500,Internet
+2014,Africa,AI/ML Researcher,2000,Internet
+2014,Australia,AI/ML Researcher,3500,Internet
+2014,Middle East,AI/ML Researcher,3000,Internet
+2015,North America,AI/ML Researcher,30000,Internet
+2015,Europe,AI/ML Researcher,21000,Internet
+2015,Asia,AI/ML Researcher,40000,Internet
+2015,South America,AI/ML Researcher,4000,Internet
+2015,Africa,AI/ML Researcher,2500,Internet
+2015,Australia,AI/ML Researcher,4000,Internet
+2015,Middle East,AI/ML Researcher,3500,Internet
+2016,North America,AI/ML Researcher,35000,Internet
+2016,Europe,AI/ML Researcher,24000,Internet
+2016,Asia,AI/ML Researcher,45000,Internet
+2016,South America,AI/ML Researcher,4500,Internet
+2016,Africa,AI/ML Researcher,3000,Internet
+2016,Australia,AI/ML Researcher,4500,Internet
+2016,Middle East,AI/ML Researcher,4000,Internet
+2017,North America,AI/ML Researcher,37000,Internet
+2017,Europe,AI/ML Researcher,26000,Internet
+2017,Asia,AI/ML Researcher,47000,Internet
+2017,South America,AI/ML Researcher,5000,Internet
+2017,Africa,AI/ML Researcher,3200,Internet
+2017,Australia,AI/ML Researcher,5000,Internet
+2017,Middle East,AI/ML Researcher,4200,Internet
+2018,North America,AI/ML Researcher,39000,Internet
+2018,Europe,AI/ML Researcher,27000,Internet
+2018,Asia,AI/ML Researcher,49000,Internet
+2018,South America,AI/ML Researcher,5500,Internet
+2018,Africa,AI/ML Researcher,3400,Internet
+2018,Australia,AI/ML Researcher,5500,Internet
+2018,Middle East,AI/ML Researcher,4400,Internet
+2019,North America,AI/ML Researcher,41000,Internet
+2019,Europe,AI/ML Researcher,28000,Internet
+2019,Asia,AI/ML Researcher,51000,Internet
+2019,South America,AI/ML Researcher,6000,Internet
+2019,Africa,AI/ML Researcher,3600,Internet
+2019,Australia,AI/ML Researcher,6000,Internet
+2019,Middle East,AI/ML Researcher,4600,Internet
+2020,North America,AI/ML Researcher,43000,Internet
+2020,Europe,AI/ML Researcher,29000,Internet
+2020,Asia,AI/ML Researcher,53000,Internet
+2020,South America,AI/ML Researcher,6500,Internet
+2020,Africa,AI/ML Researcher,3800,Internet
+2020,Australia,AI/ML Researcher,6500,Internet
+2020,Middle East,AI/ML Researcher,4800,Internet
+2021,North America,AI/ML Researcher,45000,Internet
+2021,Europe,AI/ML Researcher,30000,Internet
+2021,Asia,AI/ML Researcher,55000,Internet
+2021,South America,AI/ML Researcher,7000,Internet
+2021,Africa,AI/ML Researcher,4000,Internet
+2021,Australia,AI/ML Researcher,7000,Internet
+2021,Middle East,AI/ML Researcher,5000,Internet
+2022,North America,AI/ML Researcher,47000,Internet
+2022,Europe,AI/ML Researcher,31000,Internet
+2022,Asia,AI/ML Researcher,57000,Internet
+2022,South America,AI/ML Researcher,7500,Internet
+2022,Africa,AI/ML Researcher,4200,Internet
+2022,Australia,AI/ML Researcher,7500,Internet
+2022,Middle East,AI/ML Researcher,5200,Internet
+2023,North America,AI/ML Researcher,49000,Internet
+2023,Europe,AI/ML Researcher,32000,Internet
+2023,Asia,AI/ML Researcher,59000,Internet
+2023,South America,AI/ML Researcher,8000,Internet
+2023,Africa,AI/ML Researcher,4400,Internet
+2023,Australia,AI/ML Researcher,8000,Internet
+2023,Middle East,AI/ML Researcher,5400,Internet
+2024,North America,AI/ML Researcher,50000,Internet
+2024,Europe,AI/ML Researcher,34000,Internet
+2024,Asia,AI/ML Researcher,65000,Internet
+2024,South America,AI/ML Researcher,7000,Internet
+2024,Africa,AI/ML Researcher,5000,Internet
+2024,Australia,AI/ML Researcher,6500,Internet
+2024,Middle East,AI/ML Researcher,6000,Internet
+
+
